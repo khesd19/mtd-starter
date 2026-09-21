@@ -106,23 +106,6 @@
         "targets": {
           "word": "Column A",
           "definition": "Column B",
-          "theme": "Category",
-          "audio": [
-            {
-              "description": "Speaker",
-              "filename": "Audio"
-            }
-          ],
-          "example_sentence": ["Example"],
-          "example_sentence_definition": ["Example Definition"],
-          "example_sentence_audio": [
-            [
-              {
-                "description": "Speaker",
-                "filename": "Example Audio"
-              }
-            ]
-          ]
         }
       },
       "resource": "data.csv"
