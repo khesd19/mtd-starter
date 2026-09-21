@@ -100,7 +100,7 @@
     {
       "manifest": {
         "file_type": "csv",
-        "name": "starter",
+        "name": "Cayuga_Dictionary_Words",
         "use_header": true,
         "transducers": [],
         "targets": {
