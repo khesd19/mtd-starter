@@ -108,7 +108,7 @@
           "definition": "Column B",
         }
       },
-      "resource": "data.csv"
+      "resource": "Cayuga_Dictionary_Words.csv"
     }
   ]
 }
