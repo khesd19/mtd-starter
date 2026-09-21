@@ -85,7 +85,7 @@
       "U",
       "Ú",
       "W",
-      "Y",
+      "Y"
     ],
     "optional_field_name": "Optional Field",
     "build": "1694556630",
@@ -105,7 +105,7 @@
         "transducers": [],
         "targets": {
           "word": "A",
-          "definition": "B",
+          "definition": "B"
         }
       },
       "resource": "Cayuga_Dictionary_Words.csv"
