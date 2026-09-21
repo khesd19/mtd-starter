@@ -104,8 +104,8 @@
         "use_header": true,
         "transducers": [],
         "targets": {
-          "word": "Column A",
-          "definition": "Column B",
+          "word": "A",
+          "definition": "B",
         }
       },
       "resource": "Cayuga_Dictionary_Words.csv"
