@@ -101,11 +101,11 @@
       "manifest": {
         "file_type": "csv",
         "name": "Cayuga_Dictionary_Words",
-        "use_header": false,
+        "use_header": true,
         "transducers": [],
         "targets": {
-          "word": "A",
-          "definition": "B",
+          "word": "Column A",
+          "definition": "Column B",
         }
       },
       "resource": "Cayuga_Dictionary_Words.csv"
